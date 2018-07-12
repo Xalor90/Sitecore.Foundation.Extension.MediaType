@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Sitecore.Foundation.Extension.MediaType")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This extension will allow you to add support for custom Media Types to Sitecore, such as SVG.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("XalorTech")]
 [assembly: AssemblyProduct("Sitecore.Foundation.Extension.MediaType")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright © XalorTech 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
