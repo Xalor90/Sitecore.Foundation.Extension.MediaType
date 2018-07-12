@@ -79,7 +79,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Foundation\Extension\MediaType\AddMediaTypeSVG.config" />
+    <Content Include="LICENSE.md" />
     <None Include="packages.config" />
+    <Content Include="README.md" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
