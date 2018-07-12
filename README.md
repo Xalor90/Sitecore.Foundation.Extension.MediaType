@@ -15,3 +15,8 @@ This extension will allow you to add support for custom Media Types to Sitecore,
 ## How to use:
 - Upload SVG to Sitecore Media Library.
 - Set the `Width`, `Height`, and `Alt` fields on the Media Item (Sitecore handles the rest).
+
+## Attribution:
+- [Nikola Gotsev](https://sitecorecorner.com/2015/11/23/sitecore-svg-support/)
+
+There are many tutorials out there on how to add SVG support to Sitecore, but they all overlook certain problems that this particular article by Nikola Gotsev (link above) addresses quite nicely. He also has a [Bitbucket repository](https://bitbucket.org/nsgocev/sitecore-svg/src/master/) for this solution, but I have structured mine specifically for use with a Helix-based Sitecore solution.
